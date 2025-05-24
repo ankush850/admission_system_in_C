@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Admission System</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Admission System</h1>
+        <form id="studentForm">
+            <input type="number" id="id" placeholder="Student ID" required />
+            <input type="text" id="name" placeholder="Student Name" required />
+            <input type="text" id="course" placeholder="Course" required />
+            <button type="submit">Add Student</button>
+        </form>
+        <div id="message"></div>
+        <div id="studentList" class="student-list"></div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
