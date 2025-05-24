@@ -26,7 +26,7 @@ To compile and run this project, you need:
 - A C compiler (like `gcc`)
 - A terminal/command-line interface
 
-![Image](https://github.com/user-attachments/assets/09a839d2-e480-4e2a-b8f1-09396dbed4f8)
+![Image](https://github.com/user-attachments/assets/33a2f2c0-271a-4039-8277-ba8b36c9cf70)
 
 
 
