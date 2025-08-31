@@ -1,3 +1,7 @@
+i built is because i want for have good command of my c languauge skills .............
+
+
+
 # Admission System in C
 
 A simple command-line based Admission System project written in C. This system manages student records, allowing functionalities such as adding, viewing, searching, modifying, and deleting student admission data.
